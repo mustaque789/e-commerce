@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
+// mern stack
+
 function App() {
   return (
     <div className="App">
