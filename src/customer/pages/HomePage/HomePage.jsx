@@ -2,7 +2,7 @@ import React from 'react'
 import MainCarousel from '../../components/HomeCarousel/MainCarousel'
 
 
-// home 
+// home page
 const HomePage = () => {
   return (
     <div>
