@@ -1,6 +1,8 @@
 import React from 'react'
 import MainCarousel from '../../components/HomeCarousel/MainCarousel'
 
+
+// home 
 const HomePage = () => {
   return (
     <div>
