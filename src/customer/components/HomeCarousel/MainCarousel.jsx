@@ -5,14 +5,14 @@ import { mainCarouselData } from './MainCarouselData';
 
 
 const MainCarousel = () => {
-// iterating main carousel
+// iterating main carousel 
   const items= mainCarouselData.map((item)=> <img className='cursor-pointer'   // iterating images as loop and putting inside <img src=""
      role='presentation'
      src={item.image}
      alt='' />
     )
 
-
+// passing into alice carousel
   return (
     <AliceCarousel
         mouseTracking
